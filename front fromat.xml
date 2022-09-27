@@ -1,0 +1,280 @@
+
+<book>
+
+<!-------- first part -------!>
+
+<book-meta>
+<book-id book-id-type="doi"></book-id>
+<book-title-group>
+<book-title></book-title>
+<subtitle></subtitle>
+</book-title-group>
+
+
+
+-----------------------------------------------------------------------------
+<!-------------SECOND PART ----------------!>
+
+
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid"></contrib-id>
+<name>
+<surname></surname>
+<given-names></given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date>
+<year></year>
+</pub-date>
+<isbn publication-format="hbk">9781032168562</isbn>
+<isbn publication-format="pbk">9781032168548</isbn>
+<isbn publication-format="ebk">9781003009498</isbn>
+<isbn publication-format="web">9781000649260</isbn>
+<isbn publication-format="epub">9781000649284</isbn>
+<publisher>
+<publisher-name></publisher-name>
+</publisher>
+<edition>1</edition>
+<permissions>
+<copyright-statement>&#x00A9; 2023 Dave Chaffey and PR Smith</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Dave Chaffey and PR Smith</copyright-holder>
+</permissions>
+<abstract abstract-type="blurb">
+</abstract>
+<counts>
+<book-fig-count count=""/>
+<book-table-count count=""/>
+<book-equation-count count=""/>
+<book-ref-count count=""/>
+<book-page-count count=""/>
+</counts>
+
+<notes notes-type="imprint-page">
+
+<sec sec-type="imprint-publication-data">
+<p>Sixth edition published 2023</p>
+<p>by Routledge</p>
+<p>4 Park Square, Milton Park, Abingdon, Oxon, OX14 4RN</p>
+</sec>
+
+<sec sec-type="imprint-publication-data">
+<p>and by Routledge</p>
+<p>605 Third Avenue, New York, NY 10158</p>
+</sec>
+
+<sec sec-type="imprint-statement">
+<p>Routledge is an imprint of the Taylor &#x0026; Francis Group, an informa business</p>
+</sec>
+
+<sec sec-type="imprint-moral-rights">
+<p>The right of Dave Chaffey and PR Smith to be identified as authors of this
+work has been asserted in accordance with sections 77 and 78 of the Copyright, Designs and Patents Act 1988.</p>
+</sec>
+
+<sec sec-type="imprint-reproduction">
+<p>All rights reserved. No part of this book may be reprinted or reproduced or utilised in any form or by any electronic, mechanical, or other means, now known or hereafter invented, including photocopying and recording, or in any information storage or retrieval system, without permission in writing from the publishers.</p>
+</sec>
+
+<sec sec-type="imprint-trademark">
+<p><italic>Trademark notice</italic>: : Product or corporate names may be trademarks or registered trademarks, and are used only for identification and explanation without intent to infringe.</p>
+</sec>
+
+<sec sec-type="imprint-publication-data">
+<p>First edition published by Butterworth Heinemann/ Elsevier 2001</p>
+<p>Fifth edition published by Routledge 2017</p>
+</sec>
+
+<sec sec-type="imprint-bl-data">
+<p>A catalogue record for this book is available from the British Library</p>
+</sec>
+
+<sec sec-type="imprint-cip-data">
+<p>Names: Dave Chaffey and PR Smith, author.</p>
+<p>Title: Digital Marketing Excellence : Planning, Optimizing and Integrating Online Marketing</p>
+<p>Description: Abingdon, Oxon ; New York, NY : Routledge, 2023.</p>
+<p>Access the Support Material: <uri>https://www.routledge.com/9780367444754</uri></p>
+</sec>
+
+</notes>
+
+<notes notes-type="supplier">
+<p>Apex CoVantage, LLC</p>
+</notes>
+
+</book-meta>
+<book-body>
+
+
+-------------------------------------------------------------------------------
+
+<!------------------- THIRD AND REPEATED PART ------------------------- !>
+
+
+<book-part book-part-type="chapter" id="chapter1">
+<book-part-meta>
+<book-part-id book-part-id-type="doi"></book-part-id>
+<title-group>
+<label>Chapter 1</label>
+<title></title>
+<alt-title alt-title-type="running-head"></alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><xref ref-type="bio" rid="bio1" />
+<name>
+<surname></surname>
+<given-names></given-names>
+</name>
+</contrib>
+</contrib-group>
+<fpage></fpage>
+<lpage></lpage>
+<abstract abstract-type="abstract" specific-use="web-only">
+<p></P>
+</abstract>
+</book-part-meta>
+
+<!------------------- THIRD AND REPEATED PART-END ------------------------- !>
+-----------------------------------------------------------
+
+<body>
+
+TARGET
+-------------
+<target target-type="page" id="page_339">339</target>
+
+----------------------------------------
+<sec id="S1">
+<title>****</title>
+<p>*********</p>
+
+BOXED TEXT
+------------
+<boxed-text content-type="ruled" position ="anchor">
+<caption><title>--</title></caption>
+<p>--</p>
+</boxed-text>
+--------------
+
+DISP-QUOTE
+-------------
+<disp-quote>
+<p>--</p>
+<attrib>--</attrib>
+</disp-quote>
+------------------------
+
+OASIS TABLE
+----------------
+
+<table-wrap id="table1_1" position="float">
+<label>---</label>
+<caption><title>---</title></caption>
+<oasis:table frame="bottom">
+<oasis:tgroup cols="">
+<oasis:colspec colnum="1" colname="col1" align="left" />
+<oasis:colspec colnum="2" colname="col2" align="left" />
+<oasis:thead>
+<oasis:row rowsep="1">
+<oasis:entry align="left" valign="top"><p>--</p></oasis:entry>
+<oasis:entry align="left" valign="top"><p></p></oasis:entry>
+</oasis:row>
+</oasis:thead>
+<oasis:tbody>
+<oasis:row>
+<oasis:entry align="left" valign="top"><p></p></oasis:entry>
+<oasis:entry align="left" valign="top"><p></p></oasis:entry>
+</oasis:row>
+</oasis:tbody>
+</oasis:tgroup>
+</oasis:table>
+</table-wrap
+
+--------------------------
+
+LIST
+-----------
+
+LIST
+<list list-type="bullet">
+<list-item><p>--</p></list-item>
+<list-item><p>--</p></list-item>
+<list-item><p>--</p></list-item>
+<list-item><p>--</p></list-item>
+<list-item><p>--</p></list-item>
+</list>
+------------------------
+
+FIGURE
+-----------
+
+<fig id="fig__"position="float">
+<label>--</label>
+<caption><title>---</title></caption>
+<graphic xlink:href="fig.jpg"/>
+<attrib>----</attrib>
+</fig>
+-------------------------------
+
+TA
+
+</sec>
+</body>
+
+-----------------------------------------------------------
+BACK MATTER
+----------
+<back>
+<ack><title></title><p></p></ack>
+------------
+REFERENCE
+---------------------
+<ref-list>
+<title>Reference</title>
+<ref id="R_">
+<mixed-citation  publication-type="other">
+<person-group person-group-type="author||editor||web">
+<name>
+<surname>--</surname>
+<given-names>--</given-names>
+</name>
+</person-group>
+<year>--</year>
+<article-title>---</article-title>
+<source>---</source>
+<day>--</day>
+<month>--</month>
+<volume>--</volume>
+<issue>--</issue>
+<fpage>--</fpage>
+<lpage>--</lpage>
+<pub-id pub-id-type="doi">--</pub-id>
+<etal>---</etal>
+<comment>---</comment>
+</mixed-citation>
+</ref>
+</ref-list>
+
+INTERNAL LINKS
+--------------------
+
+<xref  ref-type="table" rid="T_">__</xref>
+<xref  ref-type="bibr" rid="R_">__</xref>
+<xref  ref-type="figure" rid="F_">__</xref>
+
+------------------------------
+
+
+
+</back>
+</book-part>
+                           
+
+-------------------------------------------------------
+ LAST CLOSING
+ 
+ </book-body>
+</book>
+
+
